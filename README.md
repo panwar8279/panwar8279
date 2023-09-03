@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, ReactJs**
 
-- 📫 How to reach me **pratigyapanwar1998@gmail.com**
+- 📫 How to reach me **pratigyapanwar@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
