@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/premium-photo/computer-surrounding-by-app-social-icon-3d-render_110893-605.jpg?w=1060)
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/93e74f65c63547100aca384d648444fa86ba21dbca44863b7ef41fb1aa5f6cbd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/eP4nyBmGZLHQ1p1JXY/giphy.gif">
 <p align="left"> <a href="https://twitter.com/pratigyapanwar" target="blank"><img src="https://img.shields.io/twitter/follow/pratigyapanwar?logo=twitter&style=for-the-badge" alt="pratigyapanwar" /></a> </p>
 
 - 🔭 I’m currently working as **Software Developer**
