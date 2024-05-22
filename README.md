@@ -1,7 +1,9 @@
-![MasterHead](https://img.freepik.com/premium-photo/computer-surrounding-by-app-social-icon-3d-render_110893-605.jpg?w=1060)
-<h3 align="center">A passionate software developer from India</h3>
+![MasterHead](https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=1812&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<h1 align="center">Hi 👋, I'm Pratigya Panwar</h1>
+<br/>
+
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/eP4nyBmGZLHQ1p1JXY/giphy.gif">
-<p align="left"> <a href="https://twitter.com/pratigyapanwar" target="blank"><img src="https://img.shields.io/twitter/follow/pratigyapanwar?logo=twitter&style=for-the-badge" alt="pratigyapanwar" /></a> </p>
+<p align="left"> <a href="https://in.linkedin.com/in/pratigya-panwar-37768b199" target="blank"><img src="https://img.shields.io/twitter/follow/pratigya-panwar-37768b199?logo=linkedin&style=for-the-badge" alt="pratigyapanwar" /></a> </p>
 
 - 🔭 I’m currently working as **Software Developer**
 
@@ -12,9 +14,7 @@
 - 📫 How to reach me **pratigyapanwar@gmail.com**
 
 - ⚡ Fun fact **I am funny**
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panwar8279&label=Profile%20views&color=0e75b6&style=flat" alt="panwar8279" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panwar8279" alt="panwar8279" /></a> </p>
 
 
