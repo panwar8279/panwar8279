@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working as **Software Developer**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **HTML, CSS, JS, ReactJs**
+- 💬 Ask me about **HTML, CSS, JS, ReactJs, React Native**
 
 - 📫 How to reach me **pratigyapanwar@gmail.com**
 
